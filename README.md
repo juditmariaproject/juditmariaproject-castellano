@@ -1,7 +1,7 @@
 <!-- Código README.md -->
 
 <!-- Imagen de portada | ![alt](link)-->
-![portadaReadmejuditmariaproject](https://github.com/juditmariaproject/juditmariaproject/blob/main/readmeCoverGithub.jpeg)
+![portadaReadmejuditmariaproject](https://github.com/juditmariaproject/juditmariaproject-es/blob/main/readmePortadaGithub.png)
 
 <hr>
 
